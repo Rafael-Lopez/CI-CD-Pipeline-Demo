@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.lopez.rafael</groupId>
-	<artifactId>MessageServer</artifactId>
+	<artifactId>message-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>MessageServer</name>
+	<name>message-server</name>
 	<description>Simple Spring Boot app to retrieve a hardcoded message</description>
 	<properties>
 		<java.version>1.8</java.version>
